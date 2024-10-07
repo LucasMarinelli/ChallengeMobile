@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="emailEditText" type="id" />
+    <item name="senhaEditText" type="id" />
+    <item name="loginButton" type="id" />
+    <item name="cadastroButton" type="id" />
+    <item name="errorTextView" type="id" />
+    <item name="previsaoTextView" type="id" />
+    <item name="botaoDetalhesPaciente" type="id" />
+    <item name="nomeEditText" type="id" />
+    <item name="idEditText" type="id" />
+    <item name="idadeEditText" type="id" />
+    <item name="riscoTextView" type="id" />
+    <item name="botaoAcoesPreventivas" type="id" />
+    <item name="riscoPosAcoesTextView" type="id" />
+    <item name="statusPacienteTextView" type="id" />
+    <item name="botaoVoltarInicio" type="id" />
+    <item name="checkBox1" type="id" />
+    <item name="checkBox2" type="id" />
+    <item name="checkBox3" type="id" />
+    <item name="checkBox4" type="id" />
+    <item name="checkBox5" type="id" />
+    <item name="botaoInserir" type="id" />
+</resources>
